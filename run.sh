@@ -1,0 +1,1 @@
+java -jar build/libs/samevertx-1.0-SNAPSHOT-all.jar
